@@ -11,7 +11,7 @@
     <entry>
         <field>значение поля field</field>
     </entry>
-    ...
+    ... 
     <entry>
         <field>значение поля field</field>
     </entry>
